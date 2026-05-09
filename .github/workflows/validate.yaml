@@ -4,7 +4,7 @@ on:
   push:
   pull_request:
   schedule:
-    - cron: "28 19 * * *"
+    - cron: "42 19 * * *"
   workflow_dispatch:
 
 permissions: {}
