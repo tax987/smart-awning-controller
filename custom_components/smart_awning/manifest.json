@@ -1,0 +1,14 @@
+{
+  "domain": "smart_awning",
+  "name": "Smart Awning Controller",
+  "version": "1.0.0",
+  "documentation": "https://github.com/tax987/smart-awning-controller",
+  "issue_tracker": "https://github.com/tax987/smart-awning-controller/issues",
+  "codeowners": [
+    "@tax987"
+  ],
+  "config_flow": true,
+  "iot_class": "local_push",
+  "integration_type": "hub",
+  "requirements": []
+}

@@ -1,0 +1,15 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Smart Awning Controller",
+        "description": "Configure your automatic awning",
+        "data": {
+          "cover": "Awning",
+          "wind_sensor": "Wind sensor",
+          "rain_sensor": "Rain sensor"
+        }
+      }
+    }
+  }
+}

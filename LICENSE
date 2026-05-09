@@ -1,0 +1,49 @@
+### **License for HACS package: Smart Awning Controller"**
+Author: Massimo Querzolo
+Date: May 09, 2026
+HACS package Version: 1.0.0
+
+1. Copyright and Ownership
+The HACS package "Smart Awning Controller" and all its source code, including future updates, remain the intellectual property and are protected by the copyright of the author, Massimo Querzolo. All rights are reserved.
+
+2. Grant of License
+This license grants you permission to:
+- Use the HACS package for personal, non-commercial purposes within your Home Assistant instance.
+
+3. Restrictions on Use
+You are not authorized to:
+- Distribute, copy, or republish this HACS package or its derivatives (forks, copies, modified versions) without the explicit and written authorization of the author.
+- Use this HACS package for commercial purposes.
+- Resell or in any way monetize this HACS package.
+
+4. Disclaimer of Warranty
+This HACS package is provided "as is" and without any warranty, express or implied. The author is not liable for any damages or malfunctions resulting from its use. Use of the HACS package is at your own risk.
+
+5. Acceptance of Terms
+By using this HACS package, you accept and agree to abide by all the terms and conditions of this license.
+
+---
+
+### **Licenza d'uso per HACS package: "Smart Awning Controller"**
+Autore: Massimo Querzolo
+Data: 09 Maggio 2026
+Versione HACS package: 1.0.0
+
+1. Diritto d'Autore e Proprietà
+L'Home Assistant HACS package "Smart Awning Controller" e tutto il suo codice sorgente, inclusi gli aggiornamenti futuri, rimangono proprietà intellettuale e sono protetti da copyright dell'autore, Massimo Querzolo. Tutti i diritti sono riservati.
+
+2. Concessione di Licenza
+Questa licenza ti concede il permesso di:
+- Utilizzare la HACS package per scopi personali, non commerciali, all'interno della tua istanza di Home Assistant.
+
+3. Restrizioni d'Uso
+Non sei autorizzato a:
+- Distribuire, copiare o ripubblicare questa HACS package o sue derivazioni (fork, copie, versioni modificate) senza l'esplicita e scritta autorizzazione dell'autore.
+- Utilizzare questa HACS package per scopi commerciali.
+- Rivendere o monetizzare in qualsiasi modo questa HACS package.
+
+4. Clausola di non Garanzia
+Questa HACS package è fornita "così com'è" e senza alcuna garanzia, esplicita o implicita. L'autore non è responsabile per eventuali danni o malfunzionamenti derivanti dal suo utilizzo. L'uso della HACS package avviene a tuo rischio e pericolo.
+
+5. Accettazione dei Termini
+Utilizzando questa HACS package, accetti e ti impegni a rispettare tutti i termini e le condizioni di questa licenza.

@@ -1,0 +1,15 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Smart Awning Controller",
+        "description": "Configura la tua tenda automatica",
+        "data": {
+          "cover": "Tenda",
+          "wind_sensor": "Sensore vento",
+          "rain_sensor": "Sensore pioggia"
+        }
+      }
+    }
+  }
+}
