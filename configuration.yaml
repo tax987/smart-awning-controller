@@ -1,0 +1,10 @@
+
+# configuration.yaml
+
+input_boolean:
+  tenda_apribile:
+    name: Tenda Apribile
+    initial: off
+    icon: mdi:window-open
+
+automation: !include automation/awning_automation.yaml

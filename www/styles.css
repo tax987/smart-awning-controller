@@ -1,0 +1,11 @@
+/* www/styles.css */
+ha-card {
+  background-color: #f0f0f0;
+  padding: 16px;
+  border-radius: 8px;
+}
+
+.status-label {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
